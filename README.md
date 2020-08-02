@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey 👋
+
+
+- Photos: https://github.com/mitogh
+- LinkedIn: https://www.linkedin.com/in/crisoforo/
+- Skype: mitogh
 
 <!--
 **mitogh/mitogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
