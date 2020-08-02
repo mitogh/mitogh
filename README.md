@@ -4,7 +4,7 @@ Hi there!
 
 Currently I'm working as a Software Developer at [Modern Tribe](https://tri.be/). I have been working with different technologies and staks since the beggining of my _"professional"_ career in Software Development, between the stacks, languages I've work with are: 
 
-*Back End**
+**Back End**
 
 - Java - Android Development
 - Ruby - Rails
