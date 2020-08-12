@@ -9,10 +9,11 @@ Currently I'm working as a Software Developer at [Modern Tribe](https://tri.be/)
 - Java - Android Development
 - Ruby - Rails
 - PHP - Laravel, WordPress
+- JavaScript - NodeJS, Express.js, happi
 
 **Front End**
 
 - Vanilla JavaScript
 - React JS and Native
 - Angular
-- HTML, CSS, SASS
+- HTML, CSS, SASS 
