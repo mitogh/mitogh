@@ -13,7 +13,7 @@ Currently I'm working as a Software Developer [@Modern Tribe](https://tri.be/). 
 
 **Front End**
 
-- Vanilla JavaScript
+- JavaScript
 - React JS and Native
 - Angular
-- HTML, CSS, SASS 
+- HTML, CSS
