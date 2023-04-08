@@ -2,7 +2,7 @@ Hi there!
 - 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&labelColor=0076b5&color=0076b5&?style=flat-square&link=https://www.linkedin.com/in/crisoforo/)](https://www.linkedin.com/in/crisoforo/) [![Unsplash Badge](https://img.shields.io/badge/-Photos-dark?logo=Unsplash&labelColor=000&color=000&?style=flat-square&link=https://unsplash.com/@mitogh)](https://unsplash.com/@mitogh)
 
-Currently working as **Senior Software Engineer** [@Netflix](https://www.netflix.com/). I've been working with different technologies and stacks since the beggining of my _"professional"_ career in Software Development (_since 2013_), between multiple stacks, frameworks, languages, a list of the ones I have some experience with are: 
+Currently working as **Senior Software Engineer** [@Netflix](https://www.netflix.com/). Since the start of my professional career in software development back in 2013, I have had the opportunity to work with a diverse range of technologies and stacks. Over the years, I have gained experience with multiple stacks, frameworks, and languages. Some of the technologies that I have worked with include: 
 
 **Back End**
 
